@@ -45,6 +45,7 @@ exports.run = async (client, msg, args) => {
       "Karabiber Ayran Koyumda Yaylan",
       "Senden Bir Kaşık Cacık Bile Olmazki Adam Olucaksın",
       "Sana Laf Sokmucam Şanslısın :) ",
+      "altyapı narcos codeye aittir",
       "Senin zirven benim zeminim! ",
       "Sen vurursun bela okurlar. Biz vururuz sala okurlar.",
       "Sen Vurursun Dikiş Atarlar Ben Vururum ** Toprak Atarlar **",

@@ -9,6 +9,7 @@ exports.run = async (client, message, args) => {
         "M4A4 Howl (**Factory New**) \nFiyatı:**1713.9$**",
         "M4A1-S Knight (**Factory New**) \nFiyatı:**272.69$**",
         "M4A1-S Hot Rod (**Factory New**) \nFiyatı:**60.88$**",
+        "altyapı narcos codeye aittir",
         "AWP Medusa (**Factory New**) \nFiyatı:**1582.05$**",
         "AWP Dragon Lore (**Factory New**) \nFiyatı:**1813.93$**",
         "Bayonet 'Slaugther' (**Factory New**) \nFiyatı:**230.6$**",

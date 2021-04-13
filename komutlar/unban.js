@@ -52,7 +52,7 @@ module.exports.run = async (client, message, args) => {
  
   const banList = await message.guild.fetchBans();
  
- // console.log(banList.map(s => s.users.id))
+
  
   if (!user.id === banList) return message.channel.send
       (userError3).then
