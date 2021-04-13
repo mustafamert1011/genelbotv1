@@ -9,7 +9,7 @@ const istatistikler = new Discord.MessageEmbed()
  .addField(`:rocket: | Toplam Kullanıcı`, `${client.users.cache.size}`, true)
  .addField(`:crystal_ball: | Toplam Sunucu`, `${client.guilds.cache.size}`, true)
   message.channel.send(istatistikler)
-}//lrows
+}
 exports.conf = {
   enabled: true,
   guildOnly: false,
