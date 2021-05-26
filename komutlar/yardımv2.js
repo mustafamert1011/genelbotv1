@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 
 exports.run = (client, message) => {
-  const EmbedPinCode = new Discord.MessageEmbed()
+  const nrcembed = new Discord.MessageEmbed()
 
     .setColor("RANDOM")
     .setTitle("**▬▬▬▬▬▬[** ©️ **» Narcos Bot** ©️ **]▬▬▬▬▬▬**")
@@ -28,10 +28,10 @@ Bir komut hakkında detaylı __yardım için__: **-yardım**
 > :robot: **quick.db Sürümü : 7.1.2**
 > :eye_in_speech_bubble: **moment Sürümü : 2.29.1**
 © 2020 Narcos | Tüm hakları saklıdır.
-:flag_sn: @MustafaMert#0001 :flag_tr: 
+ @MustafaMert#0001 :flag_tr: 
 `);
 
-  return message.channel.send(EmbedPinCode).then;
+  return message.channel.send(nrcembed).then;
 };
 exports.conf = {
   enabled: true,
